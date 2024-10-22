@@ -9,13 +9,13 @@ We are willing to update the code and instructions if there are any concerns!
 
 ## Code Instruction:
 
-## Get started
+### Get started
 
 To run experiments, first install either **Freebase** or **Wikidata** locally. The installation instructions and configuration are in the `README.md` file located within the respective folder. These instructions are obtained from [ToG](https://github.com/GasolSun36/ToG).
 
 The required libraries are provided in `requirements.txt`.
 
-## Running
+### Running
 
 For example, to run experiments with Freebase on dataset GrailQA, run the following command:
 
