@@ -1,0 +1,7 @@
+{
+    "dataset": "grailqa",
+    "method": "none",
+    "Exact Match": 25.91176470588235,
+    "Right Samples": 881,
+    "Error Sampels": 103
+}

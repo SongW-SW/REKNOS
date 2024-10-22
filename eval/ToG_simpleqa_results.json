@@ -1,0 +1,7 @@
+{
+    "dataset": "simpleqa",
+    "method": "none",
+    "Exact Match": 32.36,
+    "Right Samples": 809,
+    "Error Sampels": 166
+}

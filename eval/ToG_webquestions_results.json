@@ -1,0 +1,7 @@
+{
+    "dataset": "webquestions",
+    "method": "none",
+    "Exact Match": 3.195,
+    "Right Samples": 639,
+    "Error Sampels": 361
+}
