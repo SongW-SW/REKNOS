@@ -1,11 +1,11 @@
 # REKNOS
 
 
-_**Thank you for reviewing our paper!**_
+_**Reasoning of Large Language Models over Knowledge Graphs with Super-Relations**_
 
-Here we provide the code of REKNOS. Our work is submitted to ICLR 2025. 
+Here is the code of REKNOS, published in ICLR 2025. 
 
-We are willing to update the code and instructions if there are any concerns!
+
 
 ## Code Instruction:
 
